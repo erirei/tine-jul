@@ -27,7 +27,14 @@ p {
   > div {
     display: flex;
     flex-flow: column;
+  }
+
+  .show {
     animation: 1s fadein;
+  }
+
+  .no-show {
+    display: none;
   }
 
   button {
