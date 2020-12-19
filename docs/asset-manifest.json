@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://erirei.github.io/tine-jul/static/css/main.4ebd1ea0.chunk.css",
-    "main.js": "https://erirei.github.io/tine-jul/static/js/main.311743a5.chunk.js",
-    "main.js.map": "https://erirei.github.io/tine-jul/static/js/main.311743a5.chunk.js.map",
+    "main.css": "https://erirei.github.io/tine-jul/static/css/main.108187b3.chunk.css",
+    "main.js": "https://erirei.github.io/tine-jul/static/js/main.101d549d.chunk.js",
+    "main.js.map": "https://erirei.github.io/tine-jul/static/js/main.101d549d.chunk.js.map",
     "runtime-main.js": "https://erirei.github.io/tine-jul/static/js/runtime-main.68f772c5.js",
     "runtime-main.js.map": "https://erirei.github.io/tine-jul/static/js/runtime-main.68f772c5.js.map",
     "static/js/2.66989373.chunk.js": "https://erirei.github.io/tine-jul/static/js/2.66989373.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.d98d4a91.chunk.js": "https://erirei.github.io/tine-jul/static/js/3.d98d4a91.chunk.js",
     "static/js/3.d98d4a91.chunk.js.map": "https://erirei.github.io/tine-jul/static/js/3.d98d4a91.chunk.js.map",
     "index.html": "https://erirei.github.io/tine-jul/index.html",
-    "static/css/main.4ebd1ea0.chunk.css.map": "https://erirei.github.io/tine-jul/static/css/main.4ebd1ea0.chunk.css.map",
+    "static/css/main.108187b3.chunk.css.map": "https://erirei.github.io/tine-jul/static/css/main.108187b3.chunk.css.map",
     "static/js/2.66989373.chunk.js.LICENSE.txt": "https://erirei.github.io/tine-jul/static/js/2.66989373.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.68f772c5.js",
     "static/js/2.66989373.chunk.js",
-    "static/css/main.4ebd1ea0.chunk.css",
-    "static/js/main.311743a5.chunk.js"
+    "static/css/main.108187b3.chunk.css",
+    "static/js/main.101d549d.chunk.js"
   ]
 }

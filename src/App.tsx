@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <div className="christmas"></div>
-      <h1>Gave til Tine!</h1>
+      <h1>Kjære Tine!</h1>
       <button
         onClick={() => {
           setGiftOpen(true);
@@ -20,7 +20,7 @@ function App() {
           }, 100);
         }}
       >
-        Åpne
+        Pakk opp
       </button>
 
       <div className={`${giftOpen ? "show" : "no-show"}`}>
@@ -43,12 +43,15 @@ function App() {
           src="./fyrverkeri.jpg"
         />
         <p>
-          Av oss i år får du et gavekort på{" "}
-          <span style={{ whiteSpace: "nowrap" }}>1 000,-</span> kroner til hva
-          det enn måtte være
+          I år får du av oss et gavekort på{" "}
+          <span style={{ whiteSpace: "nowrap" }}>1 000,-</span> kroner til å
+          bruke på TV møbel, stuebord, vinkurs, spatur, eller en hvilken som
+          helst opplevelse <br />
+          <br />
+          Vi er kjempeglad i deg!
         </p>
         <p style={{ marginBottom: "3rem" }}>
-          Fra Erik, Jørgen, Maja, Terje og Vincent
+          Kjærlig hilsen Erik, Jørgen, Maja, Terje og Vincent
         </p>
         <img
           width={"300px"}
