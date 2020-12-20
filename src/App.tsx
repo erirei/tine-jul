@@ -14,9 +14,7 @@ function App() {
   if (diffDays > 0) {
     return (
       <div className="App">
-        <h1 style={{ marginTop: "5rem" }}>
-          {diffDays + 1} dager igjen til jul
-        </h1>
+        <h1 style={{ marginTop: "5rem" }}>{diffDays} dager igjen til jul</h1>
       </div>
     );
   }
