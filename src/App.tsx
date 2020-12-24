@@ -11,7 +11,7 @@ function App() {
   const diffDays = Math.round(
     Math.abs((today.getTime() - christmas.getTime()) / oneDay)
   );
-  if (diffDays + 1 > 0) {
+  if (diffDays > 0) {
     return (
       <div className="App">
         <h1 style={{ marginTop: "5rem" }}>
